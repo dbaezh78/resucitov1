@@ -604,7 +604,7 @@ document.getElementById('inputBusqueda')?.addEventListener('input', async functi
         resultadosDiv.innerHTML = `
             <div class="resultado-item">
                 Error al cargar: ${error.message}<br>
-                <small>Ruta intentada: /cantos/resucitov1/find/index.json</small>
+                <small>Ruta intentada: /cantos/resucito/find/index.json</small>
             </div>`;
         resultadosDiv.style.display = 'block';
     }
