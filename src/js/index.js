@@ -68,7 +68,7 @@ document.addEventListener('DOMContentLoaded', () => {
     // Función para crear y agregar dinámicamente un link de CSS al head
     const loadDynamicCSS = (cantoId) => {
         // La ruta del archivo CSS ahora es src/css/pg/
-        const cssPath = `/src/css/pg/${cantoId}.css`;
+        const cssPath = `css/pg/${cantoId}.css`;
         const link = document.createElement('link');
         link.id = `css-${cantoId}`; // Agregar un ID único
         link.rel = 'stylesheet';
