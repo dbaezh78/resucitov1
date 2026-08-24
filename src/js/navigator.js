@@ -1,20 +1,31 @@
 (function() {
+    // Detectar si la página actual está dentro de /src/ o en la raíz.
+    // Esto permite que el script funcione con rutas relativas tanto en
+    // GitHub Pages (ej: /resucitov1/src/index.html) como en resucito.do (/src/index.html)
+    const inSrc = window.location.pathname.includes('/src/');
+    const cssBase  = inSrc ? '' : 'src/';
+    const jsBase   = inSrc ? '' : 'src/';
+    const imgBase  = inSrc ? '' : 'src/';
+    const srcBase  = inSrc ? '' : 'src/';         // Para páginas dentro de src/
+    const rootBase = inSrc ? '../' : '';           // Para páginas en la raíz desde src/
+
+
     // 1. Inyectar los archivos CSS inmediatamente
     const linkNav = document.createElement('link');
     linkNav.rel = 'stylesheet';
-    linkNav.href = '/src/css/navigator.css';
+    linkNav.href = `${cssBase}css/navigator.css`;
     document.head.appendChild(linkNav);
 
     const linkSettings = document.createElement('link');
     linkSettings.rel = 'stylesheet';
-    linkSettings.href = '/src/css/setting.css';
+    linkSettings.href = `${cssBase}css/setting.css`;
     document.head.appendChild(linkSettings);
 
 // 2. Inyectar archivos JS de ajustes y Firebase
     const scriptsToLoad = [
-        { src: '/src/js/firebase-auth.js', type: 'module' },
-        { src: '/src/js/setting-firebase.js', type: 'module' },
-        { src: '/src/js/setting.js', type: 'text/javascript' }
+        { src: `${jsBase}js/firebase-auth.js`, type: 'module' },
+        { src: `${jsBase}js/setting-firebase.js`, type: 'module' },
+        { src: `${jsBase}js/setting.js`, type: 'text/javascript' }
     ];
 
     scriptsToLoad.forEach(s => {
@@ -40,7 +51,7 @@
                     v${window.APP_VERSION}
                 </div>
 
-                <a href="/" class="nav-item">
+                <a href="${rootBase}" class="nav-item">
                     <span class="material-symbols-outlined arrow-icon">home</span>
                     <span>Inicio</span>
                 </a>
@@ -68,22 +79,22 @@
                         <a href="https://www.facebook.com/cantordelcaminoneocatecumenal" target="_blank"><span class="material-symbols-outlined arrow-icon">record_voice_over</span> Cantores</a>
                         
                         <a href="https://carmenhernandez.org/" target="_blank"> 
-                            <img src="/src/img/carmen_hernandez.jpg" alt="Carmen Hernández" class="img-perfil-link">
+                            <img src="${imgBase}img/carmen_hernandez.jpg" alt="Carmen Hernández" class="img-perfil-link">
                             <span>Carmen Hernández</span>
                         </a>
 
                         <a href="https://neocatechumenaleiter.org/historia/kiko-arguello/" target="_blank"> 
-                            <img src="/src/img/kiko_arguello.jpg" alt="Kiko Arguello" class="img-perfil-link">
+                            <img src="${imgBase}img/kiko_arguello.jpg" alt="Kiko Arguello" class="img-perfil-link">
                             <span>Kiko Argüello</span>
                         </a>
 
                         <a href="https://neocatechumenaleiter.org/historia/mario-pezzi/" target="_blank">
-                            <img src="/src/img/mariopezzi.jpg" alt="P. Mario Pezzi" class="img-perfil-link">
+                            <img src="${imgBase}img/mariopezzi.jpg" alt="P. Mario Pezzi" class="img-perfil-link">
                             <span>P. Mario Pezzi</span>
                         </a>
                         
                         <a href="https://neocatechumenaleiter.org/historia/maria-ascension/" target="_blank">
-                            <img src="/src/img/maria_ascension.jpg" alt="Maria Ascension" class="img-perfil-link">
+                            <img src="${imgBase}img/maria_ascension.jpg" alt="Maria Ascension" class="img-perfil-link">
                             <span>Maria Ascension</span>
                         </a>
                     </div>
@@ -93,14 +104,14 @@
                     <span class="material-symbols-outlined arrow-icon">menu_book</span>
                     <span>Resucitó</span>
                     <div class="nav-submenu" id="nav-submenu-resucito">
-                        <a href="/"><span class="material-symbols-outlined arrow-icon">home</span> Camino</a>
-                        <a href="/index-joven.html"><span class="material-symbols-outlined arrow-icon">home</span> Mi Canto es Joven</a>
-                        <a href="/index-ae.html"><span class="material-symbols-outlined arrow-icon">synagogue</span> Aclamación EV. </a>
-                        <a href="/salmos.html"><span class="material-symbols-outlined arrow-icon">music_note</span> Salmodias </a>
-                        <a href="/perfil.html"><span class="material-symbols-outlined arrow-icon">person</span> Perfil</a>
-                        <a href="/src/select.html"><span class="material-symbols-outlined arrow-icon">playlist_add</span>Gestión Listas</a>
-                        <a href="/src/html/intro.html"><span class="material-symbols-outlined arrow-icon">menu_book</span> Introducción</a>
-                        <a href="/src/catequesis.html"><span class="material-symbols-outlined arrow-icon">history_edu</span> Catequesis</a>
+                        <a href="${rootBase}"><span class="material-symbols-outlined arrow-icon">home</span> Camino</a>
+                        <a href="${rootBase}index-joven.html"><span class="material-symbols-outlined arrow-icon">home</span> Mi Canto es Joven</a>
+                        <a href="${rootBase}index-ae.html"><span class="material-symbols-outlined arrow-icon">synagogue</span> Aclamación EV. </a>
+                        <a href="${rootBase}salmos.html"><span class="material-symbols-outlined arrow-icon">music_note</span> Salmodias </a>
+                        <a href="${rootBase}perfil.html"><span class="material-symbols-outlined arrow-icon">person</span> Perfil</a>
+                        <a href="${srcBase}select.html"><span class="material-symbols-outlined arrow-icon">playlist_add</span>Gestión Listas</a>
+                        <a href="${srcBase}html/intro.html"><span class="material-symbols-outlined arrow-icon">menu_book</span> Introducción</a>
+                        <a href="${srcBase}catequesis.html"><span class="material-symbols-outlined arrow-icon">history_edu</span> Catequesis</a>
                         <a href="#" target="_blank" id="installButton"><span class="material-symbols-outlined arrow-icon">download_for_offline</span>Instalar App</a>
                     </div>
                 </button>
