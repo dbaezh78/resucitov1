@@ -46,7 +46,7 @@ const allCantosData = [
         desktopsmall: { v: 7, i: 1 }},   // Para PC
         // Propiedades para navegación entre cantos
         ant: "/", // No hay canto anterior para el primero
-        sig: "/src/index.html?canto=anadiedemosocasiondetropiezo", // URL del siguiente canto
+        sig: "index.html?canto=anadiedemosocasiondetropiezo", // URL del siguiente canto
         // Datos específicos del canto, ahora referenciados aquí
          lizq: [
             { line: "", sC: "cantosprecatecumenado", color: "#544d47"},
@@ -101,8 +101,8 @@ const allCantosData = [
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
         // Propiedades para navegación entre cantos
-        ant: "/src/index.html?canto=alavictimapascual",
-        sig: "/src/index.html?canto=atilevantomisojos",
+        ant: "index.html?canto=alavictimapascual",
+        sig: "index.html?canto=atilevantomisojos",
         nCan: "",
         nCanURL: "",
         dbno: "2",
@@ -195,8 +195,8 @@ const allCantosData = [
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
         // Propiedades para navegación entre cantos
-        ant: "/src/index.html?canto=anadiedemosocasiondetropiezo",
-        sig: "/src/index.html?canto=atisenorenmiclamorimploro",
+        ant: "index.html?canto=anadiedemosocasiondetropiezo",
+        sig: "index.html?canto=atisenorenmiclamorimploro",
         nCan: "",
         nCanURL: "",
         dbno: "3",
@@ -261,8 +261,8 @@ const allCantosData = [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=atilevantomisojos",
-        sig: "/src/index.html?canto=atisenorlevantomialma",
+        ant: "index.html?canto=atilevantomisojos",
+        sig: "index.html?canto=atisenorlevantomialma",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "A TI, SEÑOR, EN MI CLAMOR IMPLORO,(La,m,15)(Re,m,327)", sC: "as ta"},
@@ -331,8 +331,8 @@ const allCantosData = [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=atisenorenmiclamorimploro",
-        sig: "/src/index.html?canto=atisenorsedebelaalabanzaension",
+        ant: "index.html?canto=atisenorenmiclamorimploro",
+        sig: "index.html?canto=atisenorsedebelaalabanzaension",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "A TI, SEÑOR, LEVANTO MI ALMA,(La,m,15)(Mi,,250)", sC: "ta as"},
@@ -386,8 +386,8 @@ const allCantosData = [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=atisenorlevantomialma",
-        sig: "/src/index.html?canto=atuluzsenorvemoslaluz",
+        ant: "index.html?canto=atisenorlevantomialma",
+        sig: "index.html?canto=atuluzsenorvemoslaluz",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "A ti, Señor, se debe la alabanza, en Sión., (Re,m,15)(La,7,364)", sC: "tc"},
@@ -466,8 +466,8 @@ const allCantosData = [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=atisenorsedebelaalabanzaension",
-        sig: "/src/index.html?canto=abbapadre",
+        ant: "index.html?canto=atisenorsedebelaalabanzaension",
+        sig: "index.html?canto=abbapadre",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "A tu luz, Señor, vemos la luz., (Mi,m,15)(La,m,127)(Mi,m,260)", sC: "tc"},
@@ -551,8 +551,8 @@ const allCantosData = [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=atuluzsenorvemoslaluz",
-        sig: "/src/index.html?canto=abraham",
+        ant: "index.html?canto=atuluzsenorvemoslaluz",
+        sig: "index.html?canto=abraham",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "¡ABBÁ, PADRE, PADRE!, (Do,,9)(Sol,,90)(Fa,,174)(Do,,220)", sC: "ta as"},
@@ -606,8 +606,8 @@ const allCantosData = [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=abbapadre",
-        sig: "/src/index.html?canto=aclamadalsenor",
+        ant: "index.html?canto=abbapadre",
+        sig: "index.html?canto=aclamadalsenor",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "Hacía calor aquel día, (La,m,15)", sC: "tc"},
@@ -668,8 +668,8 @@ const allCantosData = [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=abraham",
-        sig: "/src/index.html?canto=aldespertar",
+        ant: "index.html?canto=abraham",
+        sig: "index.html?canto=aldespertar",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "ACLAMAD AL SEÑOR, (Re,m,15)", sC: "ta as"},
@@ -742,8 +742,8 @@ const allCantosData = [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=aclamadalsenor",
-        sig: "/src/index.html?canto=alabadalsenorenelcielo",
+        ant: "index.html?canto=aclamadalsenor",
+        sig: "index.html?canto=alabadalsenorenelcielo",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "AL DESPERTAR, (Si,m,15)", sC: "mt as ta"},
@@ -839,8 +839,8 @@ const allCantosData = [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=aldespertar",
-        sig: "/src/index.html?canto=alegriahanacidoelsalvador",
+        ant: "index.html?canto=aldespertar",
+        sig: "index.html?canto=alegriahanacidoelsalvador",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "Alabad al Señor en el Cielo,(La,,8)", sC: "tc"},
@@ -915,8 +915,8 @@ const allCantosData = [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=alabadalsenorenelcielo",
-        sig: "/src/index.html?canto=aleluyaalabadalsenor",
+        ant: "index.html?canto=alabadalsenorenelcielo",
+        sig: "index.html?canto=aleluyaalabadalsenor",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "Un ángel vino del cielo, (Re,m,18)", sC: "b12-1"},
@@ -1019,8 +1019,8 @@ const allCantosData = [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=alegriahanacidoelsalvador",
-        sig: "/src/index.html?canto=aleluyabendecidalsenor",
+        ant: "index.html?canto=alegriahanacidoelsalvador",
+        sig: "index.html?canto=aleluyabendecidalsenor",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "¡ALELUYA, ALELUYA, ALELUYA!, (Mi,,10)(La,,58)(Re,,108)(La,,153)(Re,,205)(La,,248)(Mi,,275)", sC: "as ta"},
@@ -1091,8 +1091,8 @@ const allCantosData = [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=aleluyaalabadalsenor",
-        sig: "/src/index.html?canto=aleluyayallegoelreino",
+        ant: "index.html?canto=aleluyaalabadalsenor",
+        sig: "index.html?canto=aleluyayallegoelreino",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "ALELÚ, ALELÚ, ALE E LU U YA., (La,,10)(Si♭,,178)(La,,272)", sC: "niño as"},
@@ -1173,8 +1173,8 @@ const allCantosData = [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC        
-        ant: "/src/index.html?canto=aleluyabendecidalsenor",
-        sig: "/src/index.html?canto=alzaospuertas",
+        ant: "index.html?canto=aleluyabendecidalsenor",
+        sig: "index.html?canto=alzaospuertas",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "ALELUYA,ALELUYA,ALELUYA., (Do,,15)(Mi,,149)(La,m,262)", sC: "as ta"},
@@ -1243,8 +1243,8 @@ const allCantosData = [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=aleluyayallegoelreino",
-        sig: "/src/index.html?canto=amenamenamen",
+        ant: "index.html?canto=aleluyayallegoelreino",
+        sig: "index.html?canto=amenamenamen",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "Del Señor es la tierra,,(Mi,,10)", sC: "tc"},
@@ -1325,8 +1325,8 @@ const allCantosData = [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=alzaospuertas",
-        sig: "/src/index.html?canto=amoalsenor",
+        ant: "index.html?canto=alzaospuertas",
+        sig: "index.html?canto=amoalsenor",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "AMÉN, AMÉN, AMÉN., (Do,,10)", sC: "ta as"},
@@ -1433,8 +1433,8 @@ const allCantosData = [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=amenamenamen",
-        sig: "/src/index.html?canto=aquedah",
+        ant: "index.html?canto=amenamenamen",
+        sig: "index.html?canto=aquedah",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "Amo al Señor, porque escucha, (Re,,10)(Fa#,m,253)", sC: "tc"},
@@ -1506,8 +1506,8 @@ const allCantosData = [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=amoalsenor",
-        sig: "/src/index.html?canto=asihablaelamen",
+        ant: "index.html?canto=amoalsenor",
+        sig: "index.html?canto=asihablaelamen",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "Era todavía de noche cuando Abraham, (La,m,22)(Re,m9,351)", sC: "tc"},
@@ -1573,8 +1573,8 @@ const allCantosData = [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=aquedah",
-        sig: "/src/index.html?canto=avemariai",
+        ant: "index.html?canto=aquedah",
+        sig: "index.html?canto=avemariai",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "ASÍ HABLA EL AMÉN,,(Mi,m,15)", sC: "ta as"},
@@ -1651,8 +1651,8 @@ const allCantosData = [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=asihablaelamen",
-        sig: "/src/index.html?canto=avemariaii(1984)",
+        ant: "index.html?canto=asihablaelamen",
+        sig: "index.html?canto=avemariaii(1984)",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "Ave María,,(Do,,10)(Mi,,77)(La,m,110)", sC: "tc"},
@@ -1701,8 +1701,8 @@ const allCantosData = [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=avemariai",
-        sig: "/src/index.html?canto=babiloniacriminal",
+        ant: "index.html?canto=avemariai",
+        sig: "index.html?canto=babiloniacriminal",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "Ave       María,,(Do,,10)(Mi,,42)(Fa,,72)(Mi,,124)", sC: "tc"},
@@ -1751,8 +1751,8 @@ const allCantosData = [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=avemariaii(1984)",
-        sig: "/src/index.html?canto=balaam",
+        ant: "index.html?canto=avemariaii(1984)",
+        sig: "index.html?canto=balaam",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "JUNTO A LOS CANALES DE BABILONIA,,(Mi,m,15)(La,m,177)(Mi,m,321)", sC: "ta as"},
@@ -1834,8 +1834,8 @@ const allCantosData = [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=babiloniacriminal",
-        sig: "/src/index.html?canto=bendecirealsenorentodotiempo",
+        ant: "index.html?canto=babiloniacriminal",
+        sig: "index.html?canto=bendecirealsenorentodotiempo",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "De Aram me ha hecho venir, (Mi,m,22)(Re,,255)", sC: "tc"},
@@ -1935,8 +1935,8 @@ const allCantosData = [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=balaam",
-        sig: "/src/index.html?canto=bendicealmamiaayahveh",
+        ant: "index.html?canto=balaam",
+        sig: "index.html?canto=bendicealmamiaayahveh",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "BENDECIRÉ AL SEÑOR EN TODO TIEMPO,,(Re,m,20)", sC: "ta as"},
@@ -2022,8 +2022,8 @@ const allCantosData = [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=bendecirealsenorentodotiempo",
-        sig: "/src/index.html?canto=benditaerestumaria",
+        ant: "index.html?canto=bendecirealsenorentodotiempo",
+        sig: "index.html?canto=benditaerestumaria",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "BENDICE, ALMA MÍA, A YAHVEH,,(La,m,19)(Mi,,285)", sC: "ta as"},
@@ -2080,8 +2080,8 @@ const allCantosData = [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=bendicealmamiaayahveh",
-        sig: "/src/index.html?canto=benditoeressenor",
+        ant: "index.html?canto=bendicealmamiaayahveh",
+        sig: "index.html?canto=benditoeressenor",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "Bendita eres tú, María,,(La,m,15)(Sol,,138)(La,m,196)", sC: "tc"},
@@ -2151,8 +2151,8 @@ const allCantosData = [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=benditaerestumaria",
-        sig: "/src/index.html?canto=benditoseadios",
+        ant: "index.html?canto=benditaerestumaria",
+        sig: "index.html?canto=benditoseadios",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "Bendito eres, Señor,,(Sol,,13)(Fa#,m,104)(Mi,,177)", sC: "tc"},
@@ -2250,8 +2250,8 @@ const allCantosData = [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=benditoeressenor",
-        sig: "/src/index.html?canto=benedictus",
+        ant: "index.html?canto=benditoeressenor",
+        sig: "index.html?canto=benedictus",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "BENDITO SEA DIOS, (Re,,10)(Mi,m,75)(La,7,122)(Re,,163)", sC: "ta as"},
@@ -2327,8 +2327,8 @@ const allCantosData = [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=benditoseadios",
-        sig: "/src/index.html?canto=cantadadios",
+        ant: "index.html?canto=benditoseadios",
+        sig: "index.html?canto=cantadadios",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "Bendito sea el Señor,,(Re,m,21)", sC: "tc"},
@@ -2410,8 +2410,8 @@ const allCantosData = [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=benedictus",
-        sig: "/src/index.html?canto=cantadalsenor",
+        ant: "index.html?canto=benedictus",
+        sig: "index.html?canto=cantadalsenor",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "CANTAD A DIOS,,(Mi,,10)", sC: "ta as"},
@@ -2464,8 +2464,8 @@ const allCantosData = [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=cantadadios",
-        sig: "/src/index.html?canto=canticodelostresjovenes",
+        ant: "index.html?canto=cantadadios",
+        sig: "index.html?canto=canticodelostresjovenes",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "CANTAD AL SEÑOR,,(Sol,,15)(La,m,207)", sC: "ta as"},
@@ -2516,8 +2516,8 @@ const allCantosData = [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=cantadalsenor",
-        sig: "/src/index.html?canto=cantodemoises",
+        ant: "index.html?canto=cantadalsenor",
+        sig: "index.html?canto=cantodemoises",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "Criaturas todas del Señor,,(La,m,15)", sC: "tc"},
@@ -2651,8 +2651,8 @@ const allCantosData = [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=canticodelostresjovenes",
-        sig: "/src/index.html?canto=caritaschristiurgetnos",
+        ant: "index.html?canto=canticodelostresjovenes",
+        sig: "index.html?canto=caritaschristiurgetnos",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "Cantemos al Señor,, (Do,7,19)(Fa,,167)", sC: "tc"},
@@ -2843,8 +2843,8 @@ const allCantosData = [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=canticodelostresjovenes",
-        sig: "/src/index.html?canto=caritaschristiurgetnos",
+        ant: "index.html?canto=canticodelostresjovenes",
+        sig: "index.html?canto=caritaschristiurgetnos",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "Cantemos al Señor,(Do,7,19)(Fa,,167)", sC: "tc"},
@@ -3039,8 +3039,8 @@ const allCantosData = [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=cantodemoises",
-        sig: "/src/index.html?canto=carmen63",
+        ant: "index.html?canto=cantodemoises",
+        sig: "index.html?canto=carmen63",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "¡CARITAS CHRISTI URGET NOS!, (La,m,19)(Do,,184)(Mi,,271)", sC: "ta as"},
@@ -3108,8 +3108,8 @@ const allCantosData = [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=caritaschristiurgetnos",
-        sig: "/src/index.html?canto=comocondenadosamuerte",
+        ant: "index.html?canto=caritaschristiurgetnos",
+        sig: "index.html?canto=comocondenadosamuerte",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "Están rotas mis ataduras,, (La,m,15)(Mi,,55)(Fa,,204)", sC: "tc"},
@@ -3174,8 +3174,8 @@ const allCantosData = [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=carmen63",
-        sig: "/src/index.html?canto=comoesmaravilloso",
+        ant: "index.html?canto=carmen63",
+        sig: "index.html?canto=comoesmaravilloso",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "Hasta el presente, pasamos hambre,, (La,m,15)(Sol,,287)", sC: "tc"},
@@ -3253,8 +3253,8 @@ const allCantosData = [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=comocondenadosamuerte",
-        sig: "/src/index.html?canto=comolacierva",
+        ant: "index.html?canto=comocondenadosamuerte",
+        sig: "index.html?canto=comolacierva",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "¡Cómo es maravilloso, (Mi,m,15)(La,m,171)(Mi,m,215)", sC: "tc"},
@@ -3319,8 +3319,8 @@ const allCantosData = [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=comoesmaravilloso",
-        sig: "/src/index.html?canto=comoovejaqueve",
+        ant: "index.html?canto=comoesmaravilloso",
+        sig: "index.html?canto=comoovejaqueve",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "Como la cierva anhela las corrientes de agua,, (Mi,,11)", sC: "tc"},
@@ -3404,8 +3404,8 @@ const allCantosData = [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=comolacierva",
-        sig: "/src/index.html?canto=consoladamipueblo",
+        ant: "index.html?canto=comolacierva",
+        sig: "index.html?canto=consoladamipueblo",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "Como oveja que ve cómo se llevan, (Mi,m,15)", sC: "tc"},
@@ -3479,8 +3479,8 @@ const allCantosData = [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=comoovejaqueve",
-        sig: "/src/index.html?canto=cristoeslaluz",
+        ant: "index.html?canto=comoovejaqueve",
+        sig: "index.html?canto=cristoeslaluz",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "CONSOLAD A MI PUEBLO, (Mi,m,15)", sC: "ta as"},
@@ -3531,8 +3531,8 @@ const allCantosData = [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=consoladamipueblo",
-        sig: "/src/index.html?canto=cuandoelsenor",
+        ant: "index.html?canto=consoladamipueblo",
+        sig: "index.html?canto=cuandoelsenor",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "Cristo es la Luz., (Do,,10)", sC: "tc"},
@@ -3590,8 +3590,8 @@ const allCantosData = [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=cristoeslaluz",
-        sig: "/src/index.html?canto=cuandoisraelsaliodeegipto",
+        ant: "index.html?canto=cristoeslaluz",
+        sig: "index.html?canto=cuandoisraelsaliodeegipto",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "Cuando el Señor, (Re,,15)", sC: "tc"},
@@ -3654,8 +3654,8 @@ const allCantosData = [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=cuandoelsenor",
-        sig: "/src/index.html?canto=dayenu",
+        ant: "index.html?canto=cuandoelsenor",
+        sig: "index.html?canto=dayenu",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "Cuando Israel salió de Egipto,, (Mi,,10)(Fa,,123)(Mi,,246)", sC: "tc"},
@@ -3706,8 +3706,8 @@ const allCantosData = [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=cuandoisraelsaliodeegipto",
-        sig: "/src/index.html?canto=dayenu2",
+        ant: "index.html?canto=cuandoisraelsaliodeegipto",
+        sig: "index.html?canto=dayenu2",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "Cuántos bienes nos ha dado el Señor., (Mi,m,18)(La,m,107)(Mi,m,343)", sC: "tc"},
@@ -3819,8 +3819,8 @@ const allCantosData = [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},  // Para PC
-        ant: "/src/index.html?canto=dayenu",
-        sig: "/src/index.html?canto=dayenucompleto",
+        ant: "index.html?canto=dayenu",
+        sig: "index.html?canto=dayenucompleto",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "Si hubiera construido en nosotros su templo, (Re,,178)(Do,,366)", sC: "tc"},
@@ -3896,8 +3896,8 @@ const allCantosData = [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=cuandoisraelsaliodeegipto",
-        sig: "/src/index.html?canto=deprofundis",
+        ant: "index.html?canto=cuandoisraelsaliodeegipto",
+        sig: "index.html?canto=deprofundis",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "Cuántos bienes nos ha dado el Señor., (Mi,m,18)(La,m,107)(Mi,m,343)", sC: "tc"},
@@ -4074,8 +4074,8 @@ const allCantosData = [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=dayenucompleto",
-        sig: "/src/index.html?canto=decidlealosdecorazoncansado",
+        ant: "index.html?canto=dayenucompleto",
+        sig: "index.html?canto=decidlealosdecorazoncansado",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "De lo profundo a ti grito, Señor:, (La,m,19)(Fa,7,200)(Mi,,277)(La,m,316)", sC: "tc"},
@@ -4140,8 +4140,8 @@ const allCantosData = [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=deprofundis",
-        sig: "/src/index.html?canto=delantedelosangeles",
+        ant: "index.html?canto=deprofundis",
+        sig: "index.html?canto=delantedelosangeles",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "Decidle a los de corazón cansado,, (La,m,15)(Re,m9,286)", sC: "tc"},
@@ -4205,8 +4205,8 @@ const allCantosData = [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=decidlealosdecorazoncansado",
-        sig: "/src/index.html?canto=diadereposo",
+        ant: "index.html?canto=decidlealosdecorazoncansado",
+        sig: "index.html?canto=diadereposo",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "DELANTE DE LOS ÁNGELES, (Do,,15)(Mi,,181)", sC: "ta as"},
@@ -4296,8 +4296,8 @@ const allCantosData = [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=delantedelosangeles",
-        sig: "/src/index.html?canto=diceelsenoramisenor",
+        ant: "index.html?canto=delantedelosangeles",
+        sig: "index.html?canto=diceelsenoramisenor",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "Si alguno guarda mi Palabra, (Mi,m,15)(La,m,131)(Mi,m,237)", sC: "tc"},
@@ -4350,8 +4350,8 @@ const allCantosData = [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=diadereposo",
-        sig: "/src/index.html?canto=dichosoelhombre",
+        ant: "index.html?canto=diadereposo",
+        sig: "index.html?canto=dichosoelhombre",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "DICE EL SEÑOR A MI SEÑOR:, (Mi,,10)", sC: "ta as"},
@@ -4427,8 +4427,8 @@ const allCantosData = [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=diceelsenoramisenor",
-        sig: "/src/index.html?canto=elcombateescatologico",
+        ant: "index.html?canto=diceelsenoramisenor",
+        sig: "index.html?canto=elcombateescatologico",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "DICHOSO EL HOMBRE, (La,m,22)(Fa,,218)", sC: "ta as"},
@@ -4496,8 +4496,8 @@ const allCantosData = [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=dichosoelhombre",
-        sig: "/src/index.html?canto=elespiritudelsenorestasobremi",
+        ant: "index.html?canto=dichosoelhombre",
+        sig: "index.html?canto=elespiritudelsenorestasobremi",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "Veo el cielo abierto,, (Mi,,10)", sC: "tc"},
@@ -4567,8 +4567,8 @@ const allCantosData = [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=elcombateescatologico",
-        sig: "/src/index.html?canto=eljacaldelospastores",
+        ant: "index.html?canto=elcombateescatologico",
+        sig: "index.html?canto=eljacaldelospastores",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "EL ESPÍRITU DEL SEÑOR ESTÁ SOBRE MÍ,, (La,m,19)(Mi,,215)(La,m,388)", sC: "ta as"},
@@ -4625,8 +4625,8 @@ const allCantosData = [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=elespiritudelsenorestasobremi",
-        sig: "/src/index.html?canto=ellagarero",
+        ant: "index.html?canto=elespiritudelsenorestasobremi",
+        sig: "index.html?canto=ellagarero",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "Que me bese con besos de su boca,,(Re,m,21)", sC: "tc"},
@@ -4686,8 +4686,8 @@ const allCantosData = [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=eljacaldelospastores",
-        sig: "/src/index.html?canto=elmesiasleon",
+        ant: "index.html?canto=eljacaldelospastores",
+        sig: "index.html?canto=elmesiasleon",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "¿QUIÉN ES ESE QUE VIENE DE EDOM?, (Mi,m,21)", sC: "ta as"},
@@ -4749,8 +4749,8 @@ const allCantosData = [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=ellagarero",
-        sig: "/src/index.html?canto=elneciopiensaquediosnoexiste",
+        ant: "index.html?canto=ellagarero",
+        sig: "index.html?canto=elneciopiensaquediosnoexiste",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "El Mesías, león para vencer,, (La,m,22)(Mi,,250)", sC: "tc"},
@@ -4803,8 +4803,8 @@ const allCantosData = [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=elmesiasleon",
-        sig: "/src/index.html?canto=elpuebloquecaminabaenlastinieblas",
+        ant: "index.html?canto=elmesiasleon",
+        sig: "index.html?canto=elpuebloquecaminabaenlastinieblas",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "EL NECIO PIENSA, (Re,m,21)", sC: "tc as"},
@@ -4879,8 +4879,8 @@ const allCantosData = [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=elneciopiensaquediosnoexiste",
-        sig: "/src/index.html?canto=elsenoranunciaunanoticia",
+        ant: "index.html?canto=elneciopiensaquediosnoexiste",
+        sig: "index.html?canto=elsenoranunciaunanoticia",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "El pueblo que caminaba en las tinieblas, (Do,,12)(La,m,333)", sC: "tc"},
@@ -4952,8 +4952,8 @@ const allCantosData = [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=elpuebloquecaminabaenlastinieblas",
-        sig: "/src/index.html?canto=elsenoresmipastor",
+        ant: "index.html?canto=elpuebloquecaminabaenlastinieblas",
+        sig: "index.html?canto=elsenoresmipastor",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "EL SEÑOR ANUNCIA UNA NOTICIA,, (Sol,,14)(Mi,m,292)", sC: "tc as"},
@@ -5012,8 +5012,8 @@ const allCantosData = [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=elsenoranunciaunanoticia",
-        sig: "/src/index.html?canto=elsenormehadado",
+        ant: "index.html?canto=elsenoranunciaunanoticia",
+        sig: "index.html?canto=elsenormehadado",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "El Señor es mi pastor,, (La,m,21)(Fa,,186)", sC: "tc"},
@@ -5111,8 +5111,8 @@ const allCantosData = [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=elsenoresmipastor",
-        sig: "/src/index.html?canto=elielilamasabactani",
+        ant: "index.html?canto=elsenoresmipastor",
+        sig: "index.html?canto=elielilamasabactani",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "El Señor me ha dado, (Si,m,15)(Do,,168)", sC: "tc"},
@@ -5187,8 +5187,8 @@ const allCantosData = [
               tablet: { v: 3, i: 0.4 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=elsenormehadado",
-        sig: "/src/index.html?canto=enmediodeaquelgentio",
+        ant: "index.html?canto=elsenormehadado",
+        sig: "index.html?canto=enmediodeaquelgentio",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "ELÍ, ELÍ, LAMÁ SABACTANÍ., (Mi,m,15)(La,m,125)(Mi,m,251)", sC: "ta as"},
@@ -5299,8 +5299,8 @@ const allCantosData = [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=elielilamasabactani",
-        sig: "/src/index.html?canto=enunanocheoscura",
+        ant: "index.html?canto=elielilamasabactani",
+        sig: "index.html?canto=enunanocheoscura",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "EN MEDIO DE AQUEL GENTÍO,, (La,m,21)", sC: "tc as"},
@@ -5373,8 +5373,8 @@ const allCantosData = [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=enmediodeaquelgentio",
-        sig: "/src/index.html?canto=eresdignodetomarellibro",
+        ant: "index.html?canto=enmediodeaquelgentio",
+        sig: "index.html?canto=eresdignodetomarellibro",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "EN UNA NOCHE OSCURA,, (La,m,21)", sC: "ta as"},
@@ -5445,8 +5445,8 @@ const allCantosData = [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=enunanocheoscura",
-        sig: "/src/index.html?canto=ereshermoso",
+        ant: "index.html?canto=enunanocheoscura",
+        sig: "index.html?canto=ereshermoso",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "Eres digno de tomar el libro, (Re,m,22)", sC: "tc"},
@@ -5515,8 +5515,8 @@ const allCantosData = [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=eresdignodetomarellibro",
-        sig: "/src/index.html?canto=espaciente",
+        ant: "index.html?canto=eresdignodetomarellibro",
+        sig: "index.html?canto=espaciente",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "ERES HERMOSO, EL MÁS HERMOSO, (Mi,,11)", sC: "ta as"},
@@ -5608,8 +5608,8 @@ const allCantosData = [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=ereshermoso",
-        sig: "/src/index.html?canto=escondemeenloocultodetutienda",
+        ant: "index.html?canto=ereshermoso",
+        sig: "index.html?canto=escondemeenloocultodetutienda",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "El Espíritu Santo es el yugo suave,, (La,m,20)(Mi,,298)", sC: "tc"},
@@ -5694,8 +5694,8 @@ const allCantosData = [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=espaciente",
-        sig: "/src/index.html?canto=escuchadislaslejanas",
+        ant: "index.html?canto=espaciente",
+        sig: "index.html?canto=escuchadislaslejanas",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "ESCÓNDEME, (La,m,20)", sC: "ta as"},
@@ -5787,8 +5787,8 @@ const allCantosData = [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=escondemeenloocultodetutienda",
-        sig: "/src/index.html?canto=esteeseldiaenqueactuoelsenor",
+        ant: "index.html?canto=escondemeenloocultodetutienda",
+        sig: "index.html?canto=esteeseldiaenqueactuoelsenor",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "Escuchad, islas lejanas,, (La,7,15)", sC: "tc"},
@@ -5881,8 +5881,8 @@ const allCantosData = [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=escuchadislaslejanas",
-        sig: "/src/index.html?canto=esteeselmandamientomio",
+        ant: "index.html?canto=escuchadislaslejanas",
+        sig: "index.html?canto=esteeselmandamientomio",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "No he de morir,, (La,m,19)", sC: "tc"},
@@ -6051,8 +6051,8 @@ const allCantosData = [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=esteeseldiaenqueactuoelsenor",
-        sig: "/src/index.html?canto=evenushalomalejem",
+        ant: "index.html?canto=esteeseldiaenqueactuoelsenor",
+        sig: "index.html?canto=evenushalomalejem",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "ESTE ES EL MANDAMIENTO MÍO:, (La,m,21)(Do,,62)(Mi,,290)", sC: "ta as"},
@@ -6124,8 +6124,8 @@ const allCantosData = [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=esteeselmandamientomio",
-        sig: "/src/index.html?canto=extiendomismanos",
+        ant: "index.html?canto=esteeselmandamientomio",
+        sig: "index.html?canto=extiendomismanos",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "EVENU SHALOM ALEJEM,, (Re,m,21)", sC: "ta as"},
@@ -6203,8 +6203,8 @@ const allCantosData = [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=evenushalomalejem",
-        sig: "/src/index.html?canto=exultadjustosenelsenor",
+        ant: "index.html?canto=evenushalomalejem",
+        sig: "index.html?canto=exultadjustosenelsenor",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "EXTIENDO MIS MANOS,, (Re,,10)(Si,m,86)(Sol,,171)", sC: "at as "},
@@ -6261,8 +6261,8 @@ const allCantosData = [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=extiendomismanos",
-        sig: "/src/index.html?canto=felicidadparaelhombre",
+        ant: "index.html?canto=extiendomismanos",
+        sig: "index.html?canto=felicidadparaelhombre",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "EXULTAD, JUSTOS, EN EL SEÑOR,, (Sol,,14)(Mi,m,286)", sC: "ta as"},
@@ -6326,8 +6326,8 @@ const allCantosData = [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=exultadjustosenelsenor",
-        sig: "/src/index.html?canto=graciasayahveh",
+        ant: "index.html?canto=exultadjustosenelsenor",
+        sig: "index.html?canto=graciasayahveh",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "FELICIDAD PARA EL HOMBRE, (La,m,20)", sC: "ta as"},
@@ -6384,8 +6384,8 @@ const allCantosData = [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=felicidadparaelhombre",
-        sig: "/src/index.html?canto=gritadjubilosos",
+        ant: "index.html?canto=felicidadparaelhombre",
+        sig: "index.html?canto=gritadjubilosos",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "GRACIAS A YAHVEH, ALELUYA., (Mi,m,18)(Re,,98)(Mi,m,171)(Re,,232)(Mi,m,278)", sC: "ta as"},
@@ -6468,8 +6468,8 @@ const allCantosData = [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=graciasayahveh",
-        sig: "/src/index.html?canto=haciatimoradasanta",
+        ant: "index.html?canto=graciasayahveh",
+        sig: "index.html?canto=haciatimoradasanta",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "GRITAD JUBILOSOS:, (La,m,22)", sC: "ta as"},
@@ -6532,8 +6532,8 @@ const allCantosData = [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=gritadjubilosos",
-        sig: "/src/index.html?canto=hastacuando",
+        ant: "index.html?canto=gritadjubilosos",
+        sig: "index.html?canto=hastacuando",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "HACIA TI, MORADA SANTA,, (La,m,19)(Mi,,211)", sC: "ta as"},
@@ -6598,8 +6598,8 @@ const allCantosData = [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=haciatimoradasanta",
-        sig: "/src/index.html?canto=heaquimisiervo",
+        ant: "index.html?canto=haciatimoradasanta",
+        sig: "index.html?canto=heaquimisiervo",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "¿Hasta cuándo,, (La,m,20)", sC: "tc"},
@@ -6662,8 +6662,8 @@ const allCantosData = [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=hastacuando",
-        sig: "/src/index.html?canto=heaquiquevengopresto",
+        ant: "index.html?canto=hastacuando",
+        sig: "index.html?canto=heaquiquevengopresto",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "He aquí mi siervo a quien elegí,, (La,m,20)(Re,m,223)(La,m,291)", sC: "tc"},
@@ -6716,8 +6716,8 @@ const allCantosData = [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=heaquimisiervo",
-        sig: "/src/index.html?canto=heesperadoenelsenor",
+        ant: "index.html?canto=heaquimisiervo",
+        sig: "index.html?canto=heesperadoenelsenor",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "He aquí que vengo presto, (La,,10)", sC: "tc"},
@@ -6770,8 +6770,8 @@ const allCantosData = [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=heaquiquevengopresto",
-        sig: "/src/index.html?canto=hijasdejerusalen",
+        ant: "index.html?canto=heaquiquevengopresto",
+        sig: "index.html?canto=hijasdejerusalen",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "HE ESPERADO,, (La,m,20)", sC: "ta as"},
@@ -6872,8 +6872,8 @@ const allCantosData = [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=heesperadoenelsenor",
-        sig: "/src/index.html?canto=himnoacristoluz",
+        ant: "index.html?canto=heesperadoenelsenor",
+        sig: "index.html?canto=himnoacristoluz",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "HIJAS DE JERUSALÉN,, (La,m,20)", sC: "ta as"},
@@ -6944,8 +6944,8 @@ const allCantosData = [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=hijasdejerusalen",
-        sig: "/src/index.html?canto=himnoalacaridad",
+        ant: "index.html?canto=hijasdejerusalen",
+        sig: "index.html?canto=himnoalacaridad",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "TE BENDECIMOS EN ESTA HORA,, (Mi,m,20)", sC: "ta as"},
@@ -7000,8 +7000,8 @@ const allCantosData = [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=himnoacristoluz",
-        sig: "/src/index.html?canto=himnoalakenosis",
+        ant: "index.html?canto=himnoacristoluz",
+        sig: "index.html?canto=himnoalakenosis",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "Aunque hablara las lenguas de los ángeles,(Do,,10)", sC: "tc"},
@@ -7066,8 +7066,8 @@ const allCantosData = [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=himnoalacaridad",
-        sig: "/src/index.html?canto=himnodeadviento",
+        ant: "index.html?canto=himnoalacaridad",
+        sig: "index.html?canto=himnodeadviento",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "Con un mismo amor,, (Mi,m,20)", sC: "tc"},
@@ -7143,8 +7143,8 @@ const allCantosData = [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=himnoalakenosis",
-        sig: "/src/index.html?canto=himnodelaascension",
+        ant: "index.html?canto=himnoalakenosis",
+        sig: "index.html?canto=himnodelaascension",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "Una voz recia disipa con sus ecos la oscuridad,, (Re,m,20)", sC: "tc"},
@@ -7194,8 +7194,8 @@ const allCantosData = [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=himnodeadviento",
-        sig: "/src/index.html?canto=himnodepascua",
+        ant: "index.html?canto=himnodeadviento",
+        sig: "index.html?canto=himnodepascua",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "EL BUEN PASTOR HA SUBIDO, (La,m,20)(Sol,,250)", sC: "ta as"},
@@ -7261,8 +7261,8 @@ const allCantosData = [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=himnodelaascension",
-        sig: "/src/index.html?canto=huyeamadomio",
+        ant: "index.html?canto=himnodelaascension",
+        sig: "index.html?canto=huyeamadomio",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "La aurora tiñe de púrpura el cielo,, (La,m,20)", sC: "tc"},
@@ -7311,8 +7311,8 @@ const allCantosData = [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=himnodepascua",
-        sig: "/src/index.html?canto=idyanunciadamishermanos",
+        ant: "index.html?canto=himnodepascua",
+        sig: "index.html?canto=idyanunciadamishermanos",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "Tú, que vives en los jardines,, (La,m,20)(Re,m,230)", sC: "tc"},
@@ -7362,8 +7362,8 @@ const allCantosData = [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=huyeamadomio",
-        sig: "/src/index.html?canto=improperios",
+        ant: "index.html?canto=huyeamadomio",
+        sig: "index.html?canto=improperios",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "«ID Y ANUNCIAD A MIS HERMANOS, (La,m,20)", sC: "ta as"},
@@ -7437,8 +7437,8 @@ const allCantosData = [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=idyanunciadamishermanos",
-        sig: "/src/index.html?canto=jerusalenreconstruida",
+        ant: "index.html?canto=idyanunciadamishermanos",
+        sig: "index.html?canto=jerusalenreconstruida",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "¡OH PUEBLO MÍO! ¡OH PUEBLO MÍO!, (Mi,m,20)", sC: "ta as"},
@@ -7521,8 +7521,8 @@ const allCantosData = [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=improperios",
-        sig: "/src/index.html?canto=jesusrecorriatodaslasciudades",
+        ant: "index.html?canto=improperios",
+        sig: "index.html?canto=jesusrecorriatodaslasciudades",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "Bendice, alma mía al Señor,, (Mi,m,20)(Re,,250)", sC: "tc"},
@@ -7613,8 +7613,8 @@ const allCantosData = [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=jerusalenreconstruida",
-        sig: "/src/index.html?canto=lacorderadedios",
+        ant: "index.html?canto=jerusalenreconstruida",
+        sig: "index.html?canto=lacorderadedios",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "Jesús recorría todas las ciudades., (La,m,20)(Fa,,121)(La,m,279)", sC: "tc"},
@@ -7692,8 +7692,8 @@ const allCantosData = [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=jesusrecorriatodaslasciudades",
-        sig: "/src/index.html?canto=laespada",
+        ant: "index.html?canto=jesusrecorriatodaslasciudades",
+        sig: "index.html?canto=laespada",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "Era la Virgen María prometida de José,, (Mi,m,20)(La,m,209)", sC: "tc"},
@@ -7790,8 +7790,8 @@ const allCantosData = [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=lacorderadedios",
-        sig: "/src/index.html?canto=lamarchaesdura",
+        ant: "index.html?canto=lacorderadedios",
+        sig: "index.html?canto=lamarchaesdura",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "Espada, espada, bruñida para matar., (La,m,20)(Mi,7,121)(Fa,,208)(Mi,7,338)", sC: "tc"},
@@ -7868,8 +7868,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=laespada",
-        sig: "/src/index.html?canto=lasalve",
+        ant: "index.html?canto=laespada",
+        sig: "index.html?canto=lasalve",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "La marcha es dura, recio el sol,, (Mi,m,20)(Si,7,154)(Mi,m,281)", sC: "tc"},
@@ -7916,8 +7916,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=lamarchaesdura",
-        sig: "/src/index.html?canto=lasiegadelasnaciones",
+        ant: "index.html?canto=lamarchaesdura",
+        sig: "index.html?canto=lasiegadelasnaciones",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "Dios te salve,, (Mi,m,20)", sC: "tc"},
@@ -7972,8 +7972,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=lasalve",
-        sig: "/src/index.html?canto=lavozdemiamado",
+        ant: "index.html?canto=lasalve",
+        sig: "index.html?canto=lavozdemiamado",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "Llegaron sus discípulos y le dijeron:, (Re,m,20)", sC: "tc"},
@@ -8059,8 +8059,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=lasiegadelasnaciones",
-        sig: "/src/index.html?canto=lasarmasdelaluz",
+        ant: "index.html?canto=lasiegadelasnaciones",
+        sig: "index.html?canto=lasarmasdelaluz",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "¡La voz de mi amado!, (Do,,10)(La,m,225)", sC: "tc"},
@@ -8141,8 +8141,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=lavozdemiamado",
-        sig: "/src/index.html?canto=laudasion",
+        ant: "index.html?canto=lavozdemiamado",
+        sig: "index.html?canto=laudasion",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "Revestíos de la armadura de Dios,, (La,m,20)(Re,m9,306)", sC: "tc"},
@@ -8209,8 +8209,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=lasarmasdelaluz",
-        sig: "/src/index.html?canto=laudasionc",
+        ant: "index.html?canto=lasarmasdelaluz",
+        sig: "index.html?canto=laudasionc",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "Alaba, Sión, al Salvador,, (La,m,20)(Re,m,216)", sC: "tc"},
@@ -8302,8 +8302,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=laudasion",
-        sig: "/src/index.html?canto=levantomisojosalosmontes",
+        ant: "index.html?canto=laudasion",
+        sig: "index.html?canto=levantomisojosalosmontes",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "Tú no ves, tú no comprendes;, (La,m,20)(Re,m,220)", sC: "tc"},
@@ -8391,8 +8391,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=laudasionc",
-        sig: "/src/index.html?canto=lleguehastatupresenciamiclamor",
+        ant: "index.html?canto=laudasionc",
+        sig: "index.html?canto=lleguehastatupresenciamiclamor",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "LEVANTO MIS OJOS A LOS MONTES:, (Sol,,14)(Si,m,280)", sC: "ta as"},
@@ -8467,8 +8467,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=levantomisojosalosmontes",
-        sig: "/src/index.html?canto=llevamealcielo",
+        ant: "index.html?canto=levantomisojosalosmontes",
+        sig: "index.html?canto=llevamealcielo",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "¡Señor, Señor Jesús!, (La,m,20)(Fa,,66)(Mi,,174)", sC: "tc"},
@@ -8532,8 +8532,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=lleguehastatupresenciamiclamor",
-        sig: "/src/index.html?canto=magnificat",
+        ant: "index.html?canto=lleguehastatupresenciamiclamor",
+        sig: "index.html?canto=magnificat",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "LLÉVAME AL CIELO,, (Mi,,11)", sC: "ta as"},
@@ -8627,8 +8627,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=llevamealcielo",
-        sig: "/src/index.html?canto=mariacasadebendicion",
+        ant: "index.html?canto=llevamealcielo",
+        sig: "index.html?canto=mariacasadebendicion",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "PROCLAMA MI ALMA, (Re,,11)", sC: "ta as"},
@@ -8698,8 +8698,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=magnificat",
-        sig: "/src/index.html?canto=mariadejasnagora",
+        ant: "index.html?canto=magnificat",
+        sig: "index.html?canto=mariadejasnagora",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "MARÍA, CASA DE BENDICIÓN,, (Re,m,20)(Sol,m,99)(Re,m,256)", sC: "ta as"},
@@ -8755,8 +8755,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=mariacasadebendicion",
-        sig: "/src/index.html?canto=mariamadredelaiglesia",
+        ant: "index.html?canto=mariacasadebendicion",
+        sig: "index.html?canto=mariamadredelaiglesia",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "MARÍA DE JASNA GÓRA, (La,,10)", sC: "ta as"},
@@ -8823,8 +8823,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=mariadejasnagora",
-        sig: "/src/index.html?canto=mariamadredelcaminoardiente",
+        ant: "index.html?canto=mariadejasnagora",
+        sig: "index.html?canto=mariamadredelcaminoardiente",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "«Mujer, he ahí a tu hijo,, (Mi,,12)", sC: "tc"},
@@ -8901,8 +8901,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=mariamadredelaiglesia",
-        sig: "/src/index.html?canto=mariapequenamaria",
+        ant: "index.html?canto=mariamadredelaiglesia",
+        sig: "index.html?canto=mariapequenamaria",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "¡María, Madre del camino ardiente!, (Sol,,14)(Mi,m,57)(Do,,95)(La,,292)", sC: "tc"},
@@ -8957,8 +8957,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=mariamadredelcaminoardiente",
-        sig: "/src/index.html?canto=meensenaraselcaminodelavida",
+        ant: "index.html?canto=mariamadredelcaminoardiente",
+        sig: "index.html?canto=meensenaraselcaminodelavida",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "María, pequeña María,, (Re,,11)(Fa#,m,199)", sC: "tc"},
@@ -9023,8 +9023,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=mariapequenamaria",
-        sig: "/src/index.html?canto=mehasseducidosenor",
+        ant: "index.html?canto=mariapequenamaria",
+        sig: "index.html?canto=mehasseducidosenor",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "ME ENSEÑARÁS EL CAMINO DE LA VIDA,, (La,m,20)(Fa,,352)", sC: "tc as"},
@@ -9099,8 +9099,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=meensenaraselcaminodelavida",
-        sig: "/src/index.html?canto=miradqueestupendo",
+        ant: "index.html?canto=meensenaraselcaminodelavida",
+        sig: "index.html?canto=miradqueestupendo",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "ME HAS SEDUCIDO, SEÑOR,, (La,m,20)(Mi,7,242)", sC: "ta as"},
@@ -9180,8 +9180,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=mehasseducidosenor",
-        sig: "/src/index.html?canto=misericordiadiosmio",
+        ant: "index.html?canto=mehasseducidosenor",
+        sig: "index.html?canto=misericordiadiosmio",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "¡MIRAD QUÉ ESTUPENDO,, (Mi,m,20)", sC: "ta as"},
@@ -9275,8 +9275,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=miradqueestupendo",
-        sig: "/src/index.html?canto=misericordiamiamisericordia",
+        ant: "index.html?canto=miradqueestupendo",
+        sig: "index.html?canto=misericordiamiamisericordia",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "Misericordia, Dios mío, por tu bondad, (Re,m,22)(Sol,m,346)", sC: "tc"},
@@ -9366,8 +9366,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=misericordiadiosmio",
-        sig: "/src/index.html?canto=muchomehanperseguido",
+        ant: "index.html?canto=misericordiadiosmio",
+        sig: "index.html?canto=muchomehanperseguido",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "MISERICORDIA MÍA, MISERICORDIA… (Mi,m,20)(Re,,248)(Mi,m,291)", sC: "tc as r1"},
@@ -9500,8 +9500,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=misericordiamiamisericordia",
-        sig: "/src/index.html?canto=noestaaquiresucito",
+        ant: "index.html?canto=misericordiamiamisericordia",
+        sig: "index.html?canto=noestaaquiresucito",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "Mucho me han perseguido desde mi juventud,, (La,m,20)(Mi,,422)", sC: "tc"},
@@ -9576,8 +9576,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=muchomehanperseguido",
-        sig: "/src/index.html?canto=nohayenelparecer",
+        ant: "index.html?canto=muchomehanperseguido",
+        sig: "index.html?canto=nohayenelparecer",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "Pasado el sábado,, (Do,,10)(Mi,,180)", sC: "tc"},
@@ -9647,8 +9647,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=noestaaquiresucito",
-        sig: "/src/index.html?canto=nolimetangere",
+        ant: "index.html?canto=noestaaquiresucito",
+        sig: "index.html?canto=nolimetangere",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "No hay en Él parecer,, (Do,,10)", sC: "tc"},
@@ -9724,8 +9724,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=nohayenelparecer",
-        sig: "/src/index.html?canto=ohcieloslloveddeloalto",
+        ant: "index.html?canto=nohayenelparecer",
+        sig: "index.html?canto=ohcieloslloveddeloalto",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "«Mujer, dime, ¿por qué lloras?, (Do,,12)", sC: "tc"},
@@ -9791,8 +9791,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=nolimetangere",
-        sig: "/src/index.html?canto=ohdiosportunombre",
+        ant: "index.html?canto=nolimetangere",
+        sig: "index.html?canto=ohdiosportunombre",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "OH CIELOS, LLOVED DE LO ALTO,, (La,m,20)(Fa,,264)", sC: "ta as"},
@@ -9877,8 +9877,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=ohcieloslloveddeloalto",
-        sig: "/src/index.html?canto=ohdiostueresmidios",
+        ant: "index.html?canto=ohcieloslloveddeloalto",
+        sig: "index.html?canto=ohdiostueresmidios",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "OH DIOS, POR TU NOMBRE SÁLVAME,, (La,m,20)(Fa,7,286)", sC: "ta as"},
@@ -9932,8 +9932,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=ohdiosportunombre",
-        sig: "/src/index.html?canto=ohjesusamormio",
+        ant: "index.html?canto=ohdiosportunombre",
+        sig: "index.html?canto=ohjesusamormio",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "OH DIOS, TÚ ERES MI DIOS,, (La,m,20)(Re,m,234)", sC: "ta as"},
@@ -10006,8 +10006,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=ohdiostueresmidios",
-        sig: "/src/index.html?canto=ohmuertedondeestatuvictoria",
+        ant: "index.html?canto=ohdiostueresmidios",
+        sig: "index.html?canto=ohmuertedondeestatuvictoria",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "Oh Jesús , amor mío,, (La,m,20)(Fa,,174)", sC: "tc ast"},
@@ -10091,8 +10091,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=ohjesusamormio",
-        sig: "/src/index.html?canto=ohsenornuestrodios",
+        ant: "index.html?canto=ohjesusamormio",
+        sig: "index.html?canto=ohsenornuestrodios",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "En un instante, en un pestañear de ojos,, (Re,madd9,41)", sC: "tc"},
@@ -10178,8 +10178,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=ohmuerte¿dondeestatuvictoria?",
-        sig: "/src/index.html?canto=ostomaredeentrelasnaciones",
+        ant: "index.html?canto=ohmuerte¿dondeestatuvictoria?",
+        sig: "index.html?canto=ostomaredeentrelasnaciones",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "¡OH SEÑOR, NUESTRO DIOS,, (Re,m,22)(La,7,134)(Re,m,237)", sC: "ta as"},
@@ -10239,8 +10239,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=ohsenornuestrodios",
-        sig: "/src/index.html?canto=palomaincorrupta",
+        ant: "index.html?canto=ohsenornuestrodios",
+        sig: "index.html?canto=palomaincorrupta",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "OS TOMARÉ DE ENTRE LAS NACIONES,, (Re,m,21)(Re,7,110)", sC: "ta as"},
@@ -10300,8 +10300,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=ostomaredeentrelasnaciones",
-        sig: "/src/index.html?canto=pentecostes",
+        ant: "index.html?canto=ostomaredeentrelasnaciones",
+        sig: "index.html?canto=pentecostes",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "Dios te salve, María,, (Mi,m,20)(Fa#,,175)", sC: "tc"},
@@ -10376,8 +10376,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=palomaincorrupta",
-        sig: "/src/index.html?canto=porelamordemisamigos",
+        ant: "index.html?canto=palomaincorrupta",
+        sig: "index.html?canto=porelamordemisamigos",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "SI SIENTES UN SOPLO DEL CIELO,, (Re,m,22)(Do,,284)", sC: "ta as"},
@@ -10478,8 +10478,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=pentecostes",
-        sig: "/src/index.html?canto=porqueestanocheesdiferente",
+        ant: "index.html?canto=pentecostes",
+        sig: "index.html?canto=porqueestanocheesdiferente",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "Por el amor de mis amigos,, (Mi,m,20)(La,m,221)", sC: "tc"},
@@ -10582,8 +10582,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=porelamordemisamigos",
-        sig: "/src/index.html?canto=porquelasgentesconjuran",
+        ant: "index.html?canto=porelamordemisamigos",
+        sig: "index.html?canto=porquelasgentesconjuran",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "¿Por qué esta noche es diferente, (La,m,20)", sC: "tn"},
@@ -10655,8 +10655,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=porqueestanocheesdiferente",
-        sig: "/src/index.html?canto=porquemiyugoessuave",
+        ant: "index.html?canto=porqueestanocheesdiferente",
+        sig: "index.html?canto=porquemiyugoessuave",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "¿POR QUÉ LAS GENTES CONJURAN, (Mi,m,20)(La,m,289)", sC: "ta as"},
@@ -10741,8 +10741,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=porquelasgentesconjuran",
-        sig: "/src/index.html?canto=queamablessontusmoradas",
+        ant: "index.html?canto=porquelasgentesconjuran",
+        sig: "index.html?canto=queamablessontusmoradas",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "Venid a mí vosotros todos, (Do,,10)(Mi,,203)", sC: "tc"},
@@ -10811,8 +10811,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=porquemiyugoessuave",
-        sig: "/src/index.html?canto=queestupendoquealegria",
+        ant: "index.html?canto=porquemiyugoessuave",
+        sig: "index.html?canto=queestupendoquealegria",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "¡Qué amables son tus moradas, Señor,, (Do,,10)(Mi,m,260)(La,m,352)", sC: "tc"},
@@ -10891,8 +10891,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=queamablessontusmoradas",
-        sig: "/src/index.html?canto=quienesestaquesubedeldesierto",
+        ant: "index.html?canto=queamablessontusmoradas",
+        sig: "index.html?canto=quienesestaquesubedeldesierto",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "¡QUÉ ESTUPENDO, QUÉ ALEGRÍA!, (La,m,20)(Re,m,123)(La,m,206)(Mi,,298)", sC: "ta as"},
@@ -10952,8 +10952,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=queestupendoquealegria",
-        sig: "/src/index.html?canto=quiennosseparara",
+        ant: "index.html?canto=queestupendoquealegria",
+        sig: "index.html?canto=quiennosseparara",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "¿QUIÉN ES ESTA QUE SUBE DEL DESIERTO,, (La,m,20)(Re,m,227)(La,m,359)", sC: "ta as"},
@@ -11014,8 +11014,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=quienesestaquesubedeldesierto",
-        sig: "/src/index.html?canto=quieroandarmadreajerusalen",
+        ant: "index.html?canto=quienesestaquesubedeldesierto",
+        sig: "index.html?canto=quieroandarmadreajerusalen",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "¿QUIÉN NOS SEPARARÁ,, (La,m,20)", sC: "ta as"},
@@ -11087,8 +11087,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=quiennosseparara",
-        sig: "/src/index.html?canto=quierocantar",
+        ant: "index.html?canto=quiennosseparara",
+        sig: "index.html?canto=quierocantar",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "Quiero andar, madre,, (Mi,,10)(La,m,189)", sC: "tc"},
@@ -11148,8 +11148,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=quieroandarmadreajerusalen",
-        sig: "/src/index.html?canto=resucito",
+        ant: "index.html?canto=quieroandarmadreajerusalen",
+        sig: "index.html?canto=resucito",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "QUIERO CANTAR, (Re,,10)", sC: "ta as"},
@@ -11251,8 +11251,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=quierocantar",
-        sig: "/src/index.html?canto=resurrexit",
+        ant: "index.html?canto=quierocantar",
+        sig: "index.html?canto=resurrexit",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "RESUCITÓ, RESUCITÓ,, (La,m,20)(Sol,,199)", sC: "ta as"},
@@ -11329,8 +11329,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=resucito",
-        sig: "/src/index.html?canto=salvereinadeloscielos",
+        ant: "index.html?canto=resucito",
+        sig: "index.html?canto=salvereinadeloscielos",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "RESURREXIT, RESURREXIT,, (La,m,20)(Mi,7,218)", sC: "ta as"},
@@ -11409,8 +11409,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=resurrexit",
-        sig: "/src/index.html?canto=seencontrarondosangeles",
+        ant: "index.html?canto=resurrexit",
+        sig: "index.html?canto=seencontrarondosangeles",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "Salve, Reina de los Cielos,, (La,m,20)", sC: "tc"},
@@ -11463,8 +11463,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=salvereinadeloscielos",
-        sig: "/src/index.html?canto=senorayudameanodudardeti",
+        ant: "index.html?canto=salvereinadeloscielos",
+        sig: "index.html?canto=senorayudameanodudardeti",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "Se encontraron dos ángeles,, (La,m,20)", sC: "tc"},
@@ -11511,8 +11511,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=seencontrarondosangeles",
-        sig: "/src/index.html?canto=senornomecorrijasentucolera",
+        ant: "index.html?canto=seencontrarondosangeles",
+        sig: "index.html?canto=senornomecorrijasentucolera",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "¡Señor, ayúdame, Señor!, (Si,m,20)(La,,99)(Si,m,216)", sC: "tc"},
@@ -11581,8 +11581,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=senorayudameanodudardeti",
-        sig: "/src/index.html?canto=sermondelamontana",
+        ant: "index.html?canto=senorayudameanodudardeti",
+        sig: "index.html?canto=sermondelamontana",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "SEÑOR, NO ME CORRIJAS EN TU CÓLERA,, (Fa#,5/9 dim,47)(Sol,,210)(Fa#,,335)", sC: "tc as"},
@@ -11653,8 +11653,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=senornomecorrijasentucolera",
-        sig: "/src/index.html?canto=shlomlejmariam",
+        ant: "index.html?canto=senornomecorrijasentucolera",
+        sig: "index.html?canto=shlomlejmariam",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "Alzando los ojos hacia, (Re,,10)", sC: "tc"},
@@ -11726,8 +11726,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=sermondelamontana",
-        sig: "/src/index.html?canto=sielsenornoconstruyelacasa",
+        ant: "index.html?canto=sermondelamontana",
+        sig: "index.html?canto=sielsenornoconstruyelacasa",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "SHLOM LEJ MARIAM,, (Mi,m,20)(Si,7,95)(Mi,m,170)", sC: "tc as"},
@@ -11798,8 +11798,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=shlomlejmariam",
-        sig: "/src/index.html?canto=sihabeisresucitadoconcristo",
+        ant: "index.html?canto=shlomlejmariam",
+        sig: "index.html?canto=sihabeisresucitadoconcristo",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "SI EL SEÑOR, (Mi,,10)", sC: "tc as"},
@@ -11871,8 +11871,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=sielsenornoconstruyelacasa",
-        sig: "/src/index.html?canto=sihoyescuchaissuvoz",
+        ant: "index.html?canto=sielsenornoconstruyelacasa",
+        sig: "index.html?canto=sihoyescuchaissuvoz",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "SI HABÉIS RESUCITADO CON CRISTO,, (Mi,m,20)(Si,7,308)", sC: "tc as"},
@@ -11953,8 +11953,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 3.5, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=sihabeisresucitadoconcristo",
-        sig: "/src/index.html?canto=simeherefugiadoenelsenor",
+        ant: "index.html?canto=sihabeisresucitadoconcristo",
+        sig: "index.html?canto=simeherefugiadoenelsenor",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "SI HOY ESCUCHÁIS SU VOZ, (Mi,,10)(Fa#,m,249)", sC: "ta as"},
@@ -12031,8 +12031,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=sihoyescuchaissuvoz",
-        sig: "/src/index.html?canto=sionmadredetodoslospueblos",
+        ant: "index.html?canto=sihoyescuchaissuvoz",
+        sig: "index.html?canto=sionmadredetodoslospueblos",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "SI ME HE REFUGIADO EN EL SEÑOR,, (Sol,,14)(Si,7,172)", sC: "ta as"},
@@ -12091,8 +12091,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=simeherefugiadoenelsenor",
-        sig: "/src/index.html?canto=solaasolo",
+        ant: "index.html?canto=simeherefugiadoenelsenor",
+        sig: "index.html?canto=solaasolo",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "Su fundación está sobre los montes santos,, (La,m,15)(Fa,,421)", sC: "tc ast"},
@@ -12145,8 +12145,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=sionmadredetodoslospueblos",
-        sig: "/src/index.html?canto=stabatmaterdolorosa",
+        ant: "index.html?canto=sionmadredetodoslospueblos",
+        sig: "index.html?canto=stabatmaterdolorosa",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "Sola a solo, (Re,madd9*,47)(Sol,m,127)", sC: "tc"},
@@ -12210,8 +12210,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=solaasolo",
-        sig: "/src/index.html?canto=subediosentreaclamaciones",
+        ant: "index.html?canto=solaasolo",
+        sig: "index.html?canto=subediosentreaclamaciones",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "STABAT MATER DOLOROSA, (Re,m add9,42)", sC: "ta as"},
@@ -12279,8 +12279,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=stabatmaterdolorosa",
-        sig: "/src/index.html?canto=teestoyllamandosenor",
+        ant: "index.html?canto=stabatmaterdolorosa",
+        sig: "index.html?canto=teestoyllamandosenor",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "Sube Dios entre aclamaciones,, (Re,m,20)(Sol,m,252)", sC: "tc"},
@@ -12335,8 +12335,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=subediosentreaclamaciones",
-        sig: "/src/index.html?canto=tehemanifestadomipecado",
+        ant: "index.html?canto=subediosentreaclamaciones",
+        sig: "index.html?canto=tehemanifestadomipecado",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "A TE ESTOY LLAMANDO,, (Re,m,22)", sC: "ta as"},
@@ -12416,8 +12416,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=teestoyllamandosenor",
-        sig: "/src/index.html?canto=tuhascubiertodeverguenzalamuerte",
+        ant: "index.html?canto=teestoyllamandosenor",
+        sig: "index.html?canto=tuhascubiertodeverguenzalamuerte",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "TE HE MANIFESTADO MI PECADO,, (La,m,20)(Re,m,225)", sC: "ta as"},
@@ -12503,8 +12503,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=tehemanifestadomipecado",
-        sig: "/src/index.html?canto=tuqueeresfiel",
+        ant: "index.html?canto=tehemanifestadomipecado",
+        sig: "index.html?canto=tuqueeresfiel",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "Tú has cubierto de vergüenza la muerte,, (Re,m,22)(La,7,345)", sC: "tc"},
@@ -12584,8 +12584,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=tuhascubiertodeverguenzalamuerte",
-        sig: "/src/index.html?canto=unretonobrotadeltroncodejese",
+        ant: "index.html?canto=tuhascubiertodeverguenzalamuerte",
+        sig: "index.html?canto=unretonobrotadeltroncodejese",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "Señor, escucha mi oración,, (Do,,10)(Re,,77)(Do,m,171)", sC: "tc"},
@@ -12662,8 +12662,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=tuqueeresfiel",
-        sig: "/src/index.html?canto=unagransenal",
+        ant: "index.html?canto=tuqueeresfiel",
+        sig: "index.html?canto=unagransenal",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "UN RETOÑO BROTA DEL TRONCO DE JESÉ,, (Sol,,14)(Mi,m,418)", sC: "ta as"},
@@ -12750,8 +12750,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=unretonobrotadeltroncodejese",
-        sig: "/src/index.html?canto=uriuriura",
+        ant: "index.html?canto=unretonobrotadeltroncodejese",
+        sig: "index.html?canto=uriuriura",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "UNA GRAN SEÑAL APARECIÓ EN EL CIELO:, (La,m,20)", sC: "ta as"},
@@ -12851,8 +12851,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=unagransenal",
-        sig: "/src/index.html?canto=vamosyapastores",
+        ant: "index.html?canto=unagransenal",
+        sig: "index.html?canto=vamosyapastores",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "Urí, urí, urí, urá,, (Mi,m,20)(Si,7,133)", sC: "tc"},
@@ -12925,8 +12925,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=uriuriura",
-        sig: "/src/index.html?canto=vendellibano",
+        ant: "index.html?canto=uriuriura",
+        sig: "index.html?canto=vendellibano",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "VAMOS YA, PASTORES , (Mi,m,20)", sC: "ta as"},
@@ -13010,8 +13010,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=vamosyapastores",
-        sig: "/src/index.html?canto=venespiritusanto",
+        ant: "index.html?canto=vamosyapastores",
+        sig: "index.html?canto=venespiritusanto",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "Ven del Líbano, esposa,, (Mi,m,20)(Re,,132)", sC: "tc"},
@@ -13097,8 +13097,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=vendellibano",
-        sig: "/src/index.html?canto=venhijodelhombre",
+        ant: "index.html?canto=vendellibano",
+        sig: "index.html?canto=venhijodelhombre",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "VEN, ESPÍRITU SANTO,, (Do,,10)(Fa,,164)", sC: "ta as"},
@@ -13205,8 +13205,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=vendellibano",
-        sig: "/src/index.html?canto=venhijodelhombre",
+        ant: "index.html?canto=vendellibano",
+        sig: "index.html?canto=venhijodelhombre",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "VEN, ESPÍRITU SANTO,, (Do,,10)(Fa,,250)", sC: "ta as"},
@@ -13319,8 +13319,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=venespiritusanto",
-        sig: "/src/index.html?canto=venicreator",
+        ant: "index.html?canto=venespiritusanto",
+        sig: "index.html?canto=venicreator",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "Ven, Hijo del Hombre,, (Mi,m,20)(La,m,144)", sC: "tc"},
@@ -13442,8 +13442,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=venhijodelhombre",
-        sig: "/src/index.html?canto=vieneelsenor",
+        ant: "index.html?canto=venhijodelhombre",
+        sig: "index.html?canto=vieneelsenor",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "VEN, ESPÍRITU CREADOR,, (La,m,20)(Sol,,220)", sC: "ta as"},
@@ -13503,8 +13503,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=venicreator",
-        sig: "/src/index.html?canto=virgendelamaravilla",
+        ant: "index.html?canto=venicreator",
+        sig: "index.html?canto=virgendelamaravilla",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "VIENE EL SEÑOR, (Mi,m,20)", sC: "ta as"},
@@ -13573,8 +13573,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=vieneelsenor",
-        sig: "/src/index.html?canto=vividalegres",
+        ant: "index.html?canto=vieneelsenor",
+        sig: "index.html?canto=vividalegres",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "MARÍA, HIJA DE TU HIJO,, (Si,m,20)(Mi,m,93)(Si,m,203)", sC: "tc as"},
@@ -13641,8 +13641,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=virgendelamaravilla",
-        sig: "/src/index.html?canto=vosotrossoislaluzdelmundo",
+        ant: "index.html?canto=virgendelamaravilla",
+        sig: "index.html?canto=vosotrossoislaluzdelmundo",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "VIVID ALEGRES, EL SEÑOR ESTÁ CERCA,, (La,m,20)(Mi,,335)", sC: "ta as"},
@@ -13694,8 +13694,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=vividalegres",
-        sig: "/src/index.html?canto=yavienemidios",
+        ant: "index.html?canto=vividalegres",
+        sig: "index.html?canto=yavienemidios",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "VOSOTROS   SOIS LA LUZ DEL MUNDO,, (La,m,20)(Mi,,83)(La,m,317)", sC: "ta as"},
@@ -13750,8 +13750,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=vosotrossoislaluzdelmundo",
-        sig: "/src/index.html?canto=yahvehtueresmidios",
+        ant: "index.html?canto=vosotrossoislaluzdelmundo",
+        sig: "index.html?canto=yahvehtueresmidios",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "YA VIENE MI DIOS, YA VIENE MI REY,, (Mi,m,20)(Si,7,325)", sC: "ta as"},
@@ -13832,8 +13832,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=yavienemidios",
-        sig: "/src/index.html?canto=yoteamosenor",
+        ant: "index.html?canto=yavienemidios",
+        sig: "index.html?canto=yoteamosenor",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "YAHVEH, TÚ ERES MI DIOS,, (La,m,20)(Mi,,231)", sC: "tc as"},
@@ -13890,8 +13890,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=yahvehtueresmidios",
-        sig: "/src/index.html?canto=yovengoareunir",
+        ant: "index.html?canto=yahvehtueresmidios",
+        sig: "index.html?canto=yovengoareunir",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "Yo te amo, Señor, tú eres mi roca,, (Re,,11)(Fa#,,150)(Si,m,293)", sC: "tc"},
@@ -13966,8 +13966,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 4, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=yoteamosenor",
-        sig: "/src/index.html?canto=zaqueo",
+        ant: "index.html?canto=yoteamosenor",
+        sig: "index.html?canto=zaqueo",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "Yo vengo a reunir,, (Mi,,10)", sC: "tc"},
@@ -14029,8 +14029,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=yovengoareunir",
-        sig: "/src/index.html?canto=aclamacionesalaoraciondelosfieles",
+        ant: "index.html?canto=yovengoareunir",
+        sig: "index.html?canto=aclamacionesalaoraciondelosfieles",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "HABIENDO ENTRADO JESÚS EN JERICÓ,, (La,m,20)", sC: "ta as"},
@@ -14136,8 +14136,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=zaqueo",
-        sig: "/src/index.html?canto=aleluyapascual",
+        ant: "index.html?canto=zaqueo",
+        sig: "index.html?canto=aleluyapascual",
 // Contenido del lado izquierdo del canto,
     lizq: [ 
             { line: "", sC: "cantosliturgicos", color: "#544d47"},
@@ -14193,8 +14193,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=aclamacionesalaoraciondelosfieles",
-        sig: "/src/index.html?canto=antifonaparaelevangelio",
+        ant: "index.html?canto=aclamacionesalaoraciondelosfieles",
+        sig: "index.html?canto=antifonaparaelevangelio",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "Cristo Jesús ha resucitado., (La,,10)(Mi,,100)(La,,218)", sC: "tc"},
@@ -14244,8 +14244,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=aleluyapascual",
-        sig: "/src/index.html?canto=bendiciondelagua",
+        ant: "index.html?canto=aleluyapascual",
+        sig: "index.html?canto=bendiciondelagua",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "Modelo I", sC: "as", color: "var(--Rojo-Leccionario)"},
@@ -14316,8 +14316,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=antifonaparaelevangelio",
-        sig: "/src/index.html?canto=bendiciondelaguap1",
+        ant: "index.html?canto=antifonaparaelevangelio",
+        sig: "index.html?canto=bendiciondelaguap1",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "", sC: "ast"},
@@ -14420,8 +14420,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=bendiciondelagua",
-        sig: "/src/index.html?canto=bendiciondelaguap2",
+        ant: "index.html?canto=bendiciondelagua",
+        sig: "index.html?canto=bendiciondelaguap2",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "", sC: "ast "},
@@ -14494,8 +14494,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=bendiciondelaguap1",
-        sig: "/src/index.html?canto=celebracionpenitencial",
+        ant: "index.html?canto=bendiciondelaguap1",
+        sig: "index.html?canto=celebracionpenitencial",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "Ahora, ahora Padre,, (Mi,m,20)", sC: "pa"},
@@ -14553,8 +14553,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=bendiciondelagua",
-        sig: "/src/index.html?canto=corderodedios",
+        ant: "index.html?canto=bendiciondelagua",
+        sig: "index.html?canto=corderodedios",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "El Señor esté con vosotros., (Sol,,14)(La,m,214)", sC: "pa"},
@@ -14627,8 +14627,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=celebracionpenitencial",
-        sig: "/src/index.html?canto=credo",
+        ant: "index.html?canto=celebracionpenitencial",
+        sig: "index.html?canto=credo",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "ESPAÑOL", sC: "as", color: "var(--Rojo-Leccionario)"},
@@ -14686,8 +14686,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=corderodedios",
-        sig: "/src/index.html?canto=gloriaadiosenloaltodelcielo",
+        ant: "index.html?canto=corderodedios",
+        sig: "index.html?canto=gloriaadiosenloaltodelcielo",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "CREO EN DIOS PADRE TODOPODEROSO,, (Re,m,22)(Fa,,56)", sC: "ta as"},
@@ -14744,8 +14744,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=credo",
-        sig: "/src/index.html?canto=letaniasdelossantos",
+        ant: "index.html?canto=credo",
+        sig: "index.html?canto=letaniasdelossantos",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "GLORIA DIOS EN LO ALTO DEL CIELO,, (Re,,10)(La,,322)", sC: "ta as"},
@@ -14807,8 +14807,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=gloriaadiosenloaltodelcielo",
-        sig: "/src/index.html?canto=letaniaspenitencialesi",
+        ant: "index.html?canto=gloriaadiosenloaltodelcielo",
+        sig: "index.html?canto=letaniaspenitencialesi",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "Señor, ten piedad. (Mi,m,20)", sC: "tc height"},
@@ -14936,8 +14936,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=letaniasdelossantos",
-        sig: "/src/index.html?canto=letaniaspenitencialesii",
+        ant: "index.html?canto=letaniasdelossantos",
+        sig: "index.html?canto=letaniaspenitencialesii",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "Tú que al ciego que gritaba le diste la vista,, (Mi,m,20)(La,m,383)", sC: "tc"},
@@ -15038,8 +15038,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=letaniaspenitencialesi",
-        sig: "/src/index.html?canto=padrenuestro",
+        ant: "index.html?canto=letaniaspenitencialesi",
+        sig: "index.html?canto=padrenuestro",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "Por los pecados que hemos cometido,, (Mi,m,20)", sC: "tc"},
@@ -15234,8 +15234,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=letaniaspenitencialesii",
-        sig: "/src/index.html?canto=plegariaeucaristicaiimodeloi",
+        ant: "index.html?canto=letaniaspenitencialesii",
+        sig: "index.html?canto=plegariaeucaristicaiimodeloi",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "¡ABBÁ, ABBÁ PADRE!, (Re,m,22)", sC: "ta as"},
@@ -15284,8 +15284,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 4.5, i: 0.4 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=padrenuestro",
-        sig: "/src/index.html?canto=plegariaeucaristicaiimodeloip1",
+        ant: "index.html?canto=padrenuestro",
+        sig: "index.html?canto=plegariaeucaristicaiimodeloip1",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "", sC: "adb1"}, // Espacio Generado para separar contenido
@@ -15721,8 +15721,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=plegariaeucaristicaiimodeloi",
-        sig: "/src/index.html?canto=plegariaeucaristicaiimodeloip2",
+        ant: "index.html?canto=plegariaeucaristicaiimodeloi",
+        sig: "index.html?canto=plegariaeucaristicaiimodeloip2",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "Prefacio", sC: "ttgray", color: "var(--Referencia-Texto)"},
@@ -16043,8 +16043,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=plegariaeucaristicaiimodeloip1",
-        sig: "/src/index.html?canto=plegariaeucaristicaiimodeloip3",
+        ant: "index.html?canto=plegariaeucaristicaiimodeloip1",
+        sig: "index.html?canto=plegariaeucaristicaiimodeloip3",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "Relato de la Institución,", sC: "ttgray", color: "var(--Referencia-Texto)"},
@@ -16117,8 +16117,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=plegariaeucaristicaiimodeloip2",
-        sig: "/src/index.html?canto=plegariaeucaristicaiimodeloii",
+        ant: "index.html?canto=plegariaeucaristicaiimodeloip2",
+        sig: "index.html?canto=plegariaeucaristicaiimodeloii",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "Acuérdate, Señor, de tu Iglesia (Sol,,15)", sC: "pa"},
@@ -16206,8 +16206,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=plegariaeucaristicaiimodeloip3",
-        sig: "/src/index.html?canto=plegariaeucaristicaiimodeloiip1",
+        ant: "index.html?canto=plegariaeucaristicaiimodeloip3",
+        sig: "index.html?canto=plegariaeucaristicaiimodeloiip1",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "El Señor esté con vosotros., (La,m,20)(Sol,,119)(La,m,212)", sC: "pa"},
@@ -16622,8 +16622,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=plegariaeucaristicaiimodeloii",
-        sig: "/src/index.html?canto=plegariaeucaristicaiimodeloiip2",
+        ant: "index.html?canto=plegariaeucaristicaiimodeloii",
+        sig: "index.html?canto=plegariaeucaristicaiimodeloiip2",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "El Señor esté con vosotros., (La,m,20)(Sol,,119)(La,m,212)", sC: "pa"},
@@ -16932,8 +16932,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=plegariaeucaristicaiimodeloiip1",
-        sig: "/src/index.html?canto=plegariaeucaristicaiimodeloiip3",
+        ant: "index.html?canto=plegariaeucaristicaiimodeloiip1",
+        sig: "index.html?canto=plegariaeucaristicaiimodeloiip3",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "Transición, ", sC: "ttgray", color: "var(--Referencia-Texto)"},
@@ -17007,8 +17007,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=plegariaeucaristicaiimodeloiip2",
-        sig: "/src/index.html?canto=plegariaeucaristicaiv",
+        ant: "index.html?canto=plegariaeucaristicaiimodeloiip2",
+        sig: "index.html?canto=plegariaeucaristicaiv",
 
 // Contenido del lado izquierdo del canto,
     lizq: [
@@ -17083,9 +17083,9 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=plegariaeucaristicaiimodeloiip3",
-//        sig: "/src/index.html?canto=prefacioparaadvientoynavidad",
-        sig: "/src/index.html?canto=plegariaeucaristicaivp1",
+        ant: "index.html?canto=plegariaeucaristicaiimodeloiip3",
+//        sig: "index.html?canto=prefacioparaadvientoynavidad",
+        sig: "index.html?canto=plegariaeucaristicaivp1",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "Prefacio, ", sC: "ttpeq", color: "var(--Referencia-Texto)"},
@@ -17548,8 +17548,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=plegariaeucaristicaiv",
-        sig: "/src/index.html?canto=plegariaeucaristicaivp2",
+        ant: "index.html?canto=plegariaeucaristicaiv",
+        sig: "index.html?canto=plegariaeucaristicaivp2",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "Prefacio", sC: "ttgray", color: "var(--Referencia-Texto)"},
@@ -17622,8 +17622,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=plegariaeucaristicaivp1",
-        sig: "/src/index.html?canto=plegariaeucaristicaivp3",
+        ant: "index.html?canto=plegariaeucaristicaivp1",
+        sig: "index.html?canto=plegariaeucaristicaivp3",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "Reiteraste tu alianza a los hombres;, (La,m,20)", sC: ""},
@@ -17696,8 +17696,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=plegariaeucaristicaivp2",
-        sig: "/src/index.html?canto=plegariaeucaristicaivp4",
+        ant: "index.html?canto=plegariaeucaristicaivp2",
+        sig: "index.html?canto=plegariaeucaristicaivp4",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "Relato de la Institución", sC: "ttgray", color: "var(--Referencia-Texto)"},
@@ -17770,8 +17770,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=plegariaeucaristicaivp3",
-        sig: "/src/index.html?canto=prefacioparaadvientoynavidad",
+        ant: "index.html?canto=plegariaeucaristicaivp3",
+        sig: "index.html?canto=prefacioparaadvientoynavidad",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "Dirige tu mirada sobre esta Víctima, (Do,,10)", sC: ""},
@@ -17845,8 +17845,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=plegariaeucaristicaiv",
-        sig: "/src/index.html?canto=prefacioparaeltiempopascual",
+        ant: "index.html?canto=plegariaeucaristicaiv",
+        sig: "index.html?canto=prefacioparaeltiempopascual",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "El Señor esté con vosotros., (Sol,,14)(La,m,213)", sC: "pa"},
@@ -18156,8 +18156,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=prefacioparaadvientoynavidad",
-        sig: "/src/index.html?canto=pregonpascual",
+        ant: "index.html?canto=prefacioparaadvientoynavidad",
+        sig: "index.html?canto=pregonpascual",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "El Señor esté con vosotros., (Sol,,14)(La,m,250)", sC: "pa"},
@@ -18459,8 +18459,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=prefacioparaeltiempopascual",
-        sig: "/src/index.html?canto=pregonpascualp1",
+        ant: "index.html?canto=prefacioparaeltiempopascual",
+        sig: "index.html?canto=pregonpascualp1",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "Exulten los coros de los ángeles,, (La,m,20)(Sol,,122)(La,m,245)", sC: "tc"},
@@ -18580,8 +18580,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=pregonpascual",
-        sig: "/src/index.html?canto=pregonpascualp2",
+        ant: "index.html?canto=pregonpascual",
+        sig: "index.html?canto=pregonpascualp2",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "Exulten los coros de los ángeles,, (La,m,20)(Sol,,122)(La,m,245)", sC: "tc"},
@@ -18653,8 +18653,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=pregonpascualp1",
-        sig: "/src/index.html?canto=salmodiaparaelevangelio",
+        ant: "index.html?canto=pregonpascualp1",
+        sig: "index.html?canto=salmodiaparaelevangelio",
 // Contenido del lado izquierdo del canto,
     lizq: [
                     { line: "¡Oh admirable condescendencia de tu amor!, (La,m,20)(Sol,,261)(La,m,406)", sC: ""},
@@ -18726,8 +18726,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=pregonpascualp2",
-        sig: "/src/index.html?canto=salmodiaparaelrosario",
+        ant: "index.html?canto=pregonpascualp2",
+        sig: "index.html?canto=salmodiaparaelrosario",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "El Señor esté con vosotros., (Mi,m,20)(Si,7,207)(Mi,m,245)", sC: "pa"},
@@ -18786,8 +18786,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=salmodiaparaelevangelio",
-        sig: "/src/index.html?canto=salmodiaparaelsalmoresponsorial",
+        ant: "index.html?canto=salmodiaparaelevangelio",
+        sig: "index.html?canto=salmodiaparaelsalmoresponsorial",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "PADRE NUESTRO ", sC: "ttred", color: "var(--Rojo-Leccionario)"},
@@ -18845,8 +18845,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=salmodiaparaelrosario",
-        sig: "/src/index.html?canto=salmodiasparalaoraciondelosfieles",
+        ant: "index.html?canto=salmodiaparaelrosario",
+        sig: "index.html?canto=salmodiasparalaoraciondelosfieles",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "Modelo I, ", sC: "", color: "var(--Rojo-Leccionario)" },
@@ -18929,8 +18929,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=salmodiaparaelsalmoresponsorial",
-        sig: "/src/index.html?canto=salmodiasparalaudes1",
+        ant: "index.html?canto=salmodiaparaelsalmoresponsorial",
+        sig: "index.html?canto=salmodiasparalaudes1",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "Oremos, hermanos,, (Mi,m,20)", sC: "tc"},
@@ -19008,8 +19008,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=salmodiasparalaoraciondelosfieles",
-        sig: "/src/index.html?canto=salmodiasparalaudes2",
+        ant: "index.html?canto=salmodiasparalaoraciondelosfieles",
+        sig: "index.html?canto=salmodiasparalaudes2",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "SALMODIA I, ", sC: "negrita", color:"var(--Rojo-Leccionario)"},
@@ -19092,8 +19092,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=salmodiasparalaudes1",
-        sig: "/src/index.html?canto=santopalomeras65",
+        ant: "index.html?canto=salmodiasparalaudes1",
+        sig: "index.html?canto=santopalomeras65",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "SALMODIA VI ", sC: "negrita", color: "var(--Rojo-Leccionario)"},
@@ -19174,8 +19174,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=salmodiasparalaudes2",
-        sig: "/src/index.html?canto=santomelodiahebraica",
+        ant: "index.html?canto=salmodiasparalaudes2",
+        sig: "index.html?canto=santomelodiahebraica",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "SANTO, SANTO, SANTO,, (Mi,,11)(Si,7,169)", sC: "ta as"},
@@ -19235,8 +19235,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=santopalomeras65",
-        sig: "/src/index.html?canto=santopalestina74",
+        ant: "index.html?canto=santopalomeras65",
+        sig: "index.html?canto=santopalestina74",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "SANTO, ES SANTO, SANTO, ES SANTO;, (Re,m,23)", sC: "ta as"},
@@ -19300,8 +19300,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=santomelodiahebraica",
-        sig: "/src/index.html?canto=santoroma77",
+        ant: "index.html?canto=santomelodiahebraica",
+        sig: "index.html?canto=santoroma77",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "SANTO, SANTO, SANTO,, (Re,m,22)", sC: "ta as"},
@@ -19362,8 +19362,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=santopalestina74",
-        sig: "/src/index.html?canto=santo1982",
+        ant: "index.html?canto=santopalestina74",
+        sig: "index.html?canto=santo1982",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "SANTO, SANTO, SANTO, (La,m,18)", sC: "ta as"},
@@ -19430,8 +19430,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=santoroma77",
-        sig: "/src/index.html?canto=santo1988",
+        ant: "index.html?canto=santoroma77",
+        sig: "index.html?canto=santo1988",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "SANTO,SANTO,SANTO, (La,m,20)", sC: "ta as"},
@@ -19491,8 +19491,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=santo1982",
-        sig: "/src/index.html?canto=tedeum",
+        ant: "index.html?canto=santo1982",
+        sig: "index.html?canto=tedeum",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "Santo, Santo, Santo., (La,m,18)(Sol,,78)(La,m,152)", sC: "tc"},
@@ -19548,8 +19548,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=santo1988",
-        sig: "/src/index.html?canto=comoelimpulsoquesientelaira",
+        ant: "index.html?canto=santo1988",
+        sig: "index.html?canto=comoelimpulsoquesientelaira",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "A ti, oh Dios, te alabamos,, (Re,,10)", sC: "tc"},
@@ -19665,8 +19665,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=tedeum",
-        sig: "/src/index.html?canto=cuandodormia",
+        ant: "index.html?canto=tedeum",
+        sig: "index.html?canto=cuandodormia",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "", sC: "cantoscatecumenado", color: "#544d47"},
@@ -19744,8 +19744,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=comoelimpulsoquesientelaira",
-        sig: "/src/index.html?canto=debora",
+        ant: "index.html?canto=comoelimpulsoquesientelaira",
+        sig: "index.html?canto=debora",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "Cuando dormía, (Do,,10)", sC: "tc"},
@@ -19826,8 +19826,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=cuandodormia",
-        sig: "/src/index.html?canto=elmismodios",
+        ant: "index.html?canto=cuandodormia",
+        sig: "index.html?canto=elmismodios",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "Cuando Israel reúne la asamblea,, (Re,7,22)", sC: "tc"},
@@ -19926,8 +19926,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=debora",
-        sig: "/src/index.html?canto=elsembrador",
+        ant: "index.html?canto=debora",
+        sig: "index.html?canto=elsembrador",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "El mismo Dios que dijo:, (Re,,12)(Fa#,,198)", sC: "tc"},
@@ -19999,8 +19999,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=elmismodios",
-        sig: "/src/index.html?canto=heaquiquenuestroespejoeselsenor",
+        ant: "index.html?canto=elmismodios",
+        sig: "index.html?canto=heaquiquenuestroespejoeselsenor",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "SALIÓ EL SEMBRADOR A SEMBRAR, (Re,m,22)(Do,,323)", sC: "tc as"},
@@ -20073,8 +20073,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=elsembrador",
-        sig: "/src/index.html?canto=himnoalacruzgloriosa",
+        ant: "index.html?canto=elsembrador",
+        sig: "index.html?canto=himnoalacruzgloriosa",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "¡He aquí que nuestro espejo es el Señor!, (Re,m,22)(La,m,401)", sC: "tc"},
@@ -20124,8 +20124,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=heaquiquenuestroespejoeselsenor",
-        sig: "/src/index.html?canto=jacob",
+        ant: "index.html?canto=heaquiquenuestroespejoeselsenor",
+        sig: "index.html?canto=jacob",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "", sC: "adb1"}, // Espacio Generado para separar contenido
@@ -20208,8 +20208,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=himnoalacruzgloriosa",
-        sig: "/src/index.html?canto=ningunopuedeserviradossenores",
+        ant: "index.html?canto=himnoalacruzgloriosa",
+        sig: "index.html?canto=ningunopuedeserviradossenores",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "Era ya noche cuando Jacob se levantó,, (La,m,20)", sC: "tc"},
@@ -20281,8 +20281,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=jacob",
-        sig: "/src/index.html?canto=noresistaisalmal",
+        ant: "index.html?canto=jacob",
+        sig: "index.html?canto=noresistaisalmal",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "Ninguno puede servir a dos señores,, (Mi,m,20)(Re,,99)(Do,,245)", sC: "tc"},
@@ -20372,8 +20372,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=ningunopuedeserviradossenores",
-        sig: "/src/index.html?canto=nosufrasporlosmalvados",
+        ant: "index.html?canto=ningunopuedeserviradossenores",
+        sig: "index.html?canto=nosufrasporlosmalvados",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "Habéis oído que se dijo:, (Re,,12)", sC: "tc"},
@@ -20459,8 +20459,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=noresistaisalmal",
-        sig: "/src/index.html?canto=ohsenormicorazonyanoesambicioso",
+        ant: "index.html?canto=noresistaisalmal",
+        sig: "index.html?canto=ohsenormicorazonyanoesambicioso",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "NO SUFRAS POR LOS MALVADOS,, (La,m,20)(Fa,,273)", sC: "ta as"},
@@ -20528,8 +20528,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=nosufrasporlosmalvados",
-        sig: "/src/index.html?canto=senortumeescrutasyconoces",
+        ant: "index.html?canto=nosufrasporlosmalvados",
+        sig: "index.html?canto=senortumeescrutasyconoces",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "OH SEÑOR, MI CORAZÓN YA NO ES AMBICIOSO, (Mi,m,20)(La,m,220)(Mi,m,418)", sC: "tc as"},
@@ -20583,8 +20583,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=ohsenormicorazonyanoesambicioso",
-        sig: "/src/index.html?canto=shemaisrael",
+        ant: "index.html?canto=ohsenormicorazonyanoesambicioso",
+        sig: "index.html?canto=shemaisrael",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "Señor, tú me escrutas y conoces,, (Re,m,22)(Sol,m,275)", sC: "tc"},
@@ -20650,8 +20650,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=senortumeescrutasyconoces",
-        sig: "/src/index.html?canto=sientatesolitarioysilencioso",
+        ant: "index.html?canto=senortumeescrutasyconoces",
+        sig: "index.html?canto=sientatesolitarioysilencioso",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "Shemá Israel, Shemá Israel,, (La,m,20)(Sol,,200)", sC: "tc"},
@@ -20738,8 +20738,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=shemaisrael",
-        sig: "/src/index.html?canto=tueresmiesperanzasenor",
+        ant: "index.html?canto=shemaisrael",
+        sig: "index.html?canto=tueresmiesperanzasenor",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "Dios mío, Dios mío,, (Re,,12)(Fa#,m,214)", sC: "tc"},
@@ -20805,8 +20805,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=sientatesolitarioysilencioso",
-        sig: "/src/index.html?canto=alacenadelcordero",
+        ant: "index.html?canto=sientatesolitarioysilencioso",
+        sig: "index.html?canto=alacenadelcordero",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "Tú eres mi esperanza, Señor,, (Do#,dim7,40)", sC: "tc"},
@@ -20863,8 +20863,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=tueresmiesperanzasenor",
-        sig: "/src/index.html?canto=adondeteescondisteamado",
+        ant: "index.html?canto=tueresmiesperanzasenor",
+        sig: "index.html?canto=adondeteescondisteamado",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "", sC: "cantoseleccion", color: "#544d47"},
@@ -20937,8 +20937,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=alacenadelcordero",
-        sig: "/src/index.html?canto=comodestilalamiel",
+        ant: "index.html?canto=alacenadelcordero",
+        sig: "index.html?canto=comodestilalamiel",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "¿Adónde te escondiste, amado,, (Mi,,10)", sC: "tc"},
@@ -21012,8 +21012,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=adondeteescondisteamado",
-        sig: "/src/index.html?canto=comolirioentreloscardos",
+        ant: "index.html?canto=adondeteescondisteamado",
+        sig: "index.html?canto=comolirioentreloscardos",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "COMO DESTILA LA MIEL, (La,m,20)", sC: "ta as"},
@@ -21110,8 +21110,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=comodestilalamiel",
-        sig: "/src/index.html?canto=hermosaeresamigamia",
+        ant: "index.html?canto=comodestilalamiel",
+        sig: "index.html?canto=hermosaeresamigamia",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "Como perfume de mirra es mi amado,, (Si,m,20)(Mi,m,329)", sC: "tc"},
@@ -21177,8 +21177,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=comolirioentreloscardos",
-        sig: "/src/index.html?canto=lapalomavolo",
+        ant: "index.html?canto=comolirioentreloscardos",
+        sig: "index.html?canto=lapalomavolo",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "HERMOSA ERES, (Re,m,22)", sC: "tc as"},
@@ -21252,8 +21252,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=hermosaeresamigamia",
-        sig: "/src/index.html?canto=merobasteelcorazon",
+        ant: "index.html?canto=hermosaeresamigamia",
+        sig: "index.html?canto=merobasteelcorazon",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "LA PALOMA VOLÓ, (Mi,m,20)", sC: "tc as"},
@@ -21326,8 +21326,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=lapalomavolo",
-        sig: "/src/index.html?canto=subaelesposoallenodesutalamo",
+        ant: "index.html?canto=lapalomavolo",
+        sig: "index.html?canto=subaelesposoallenodesutalamo",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "ME ROBASTE EL CORAZÓN,, (Re,m,22)(Sol,m,238)", sC: "ta as"},
@@ -21405,7 +21405,7 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=merobasteelcorazon",
+        ant: "index.html?canto=merobasteelcorazon",
         sig: "/",
 // Contenido del lado izquierdo del canto,
     lizq: [
@@ -21474,8 +21474,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=subaelesposoallenodesutalamo",
-        sig: "/src/index.html?canto=ohluzgozosa",
+        ant: "index.html?canto=subaelesposoallenodesutalamo",
+        sig: "index.html?canto=ohluzgozosa",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "El Señor reina, la tierra goza,, (Sol,,14)", sC: "tc"},
@@ -21546,8 +21546,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=salmo96",
-        sig: "/src/index.html?canto=iespiritusanto",
+        ant: "index.html?canto=salmo96",
+        sig: "index.html?canto=iespiritusanto",
 // Contenido del lado izquierdo del canto,
     lizq: [
 /*            { line: "Oh luz gozosa, (Sol,,13)(Do,,101)", sC: "tc"},
@@ -21589,8 +21589,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=ohluzgozosa",
-        sig: "/src/index.html?canto=#",
+        ant: "index.html?canto=ohluzgozosa",
+        sig: "index.html?canto=#",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "OH SEÑOR, ENVIA TU ESPIRITU,, (Mi,m,19)(La,m,133)(Mi,m,311)", sC: "ta as"},
@@ -21630,8 +21630,8 @@ triggerLine: "ESPADA, ESPADA, (La,m,20)(Mi,7,134)", sC: "ta as", lines: [
               tablet: { v: 25, i: 1 },  // Para tablet
              desktop: { v: 7, i: 1 },   // Para PC
         desktopsmall: { v: 7, i: 1 }},   // Para PC
-        ant: "/src/index.html?canto=porqueestanocheesdiferente",
-        sig: "/src/index.html?canto=seencontrarondosangeles",
+        ant: "index.html?canto=porqueestanocheesdiferente",
+        sig: "index.html?canto=seencontrarondosangeles",
 // Contenido del lado izquierdo del canto,
     lizq: [
             { line: "¿Quién sabe qué es el UNO?, (Mi,m,36)(Si,7,141)(Mi,m,236)", sC: "td as"},
